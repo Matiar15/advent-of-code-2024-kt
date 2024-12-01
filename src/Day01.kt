@@ -9,8 +9,8 @@ fun main() {
         return Day01(input).countSimilarityScore()
     }
 
-//    val distance = part1(readInput("Day01"))
-//    distance.println()
+    val distance = part1(readInput("Day01"))
+    distance.println()
 
     val similarityScore = part2(readInput("Day01"))
     similarityScore.println()
