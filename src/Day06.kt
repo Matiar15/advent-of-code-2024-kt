@@ -1,6 +1,3 @@
-typealias Row = Int
-typealias Column = Int
-
 fun main() {
     fun part1(input: List<String>): Int {
         return Day06(input).countDistinctPositions()
